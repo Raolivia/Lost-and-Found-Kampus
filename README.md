@@ -54,7 +54,6 @@ Lost-and-Found-Kampus/
 └── README.md
 ```
 
-*Catatan: Nama berkas pada struktur di atas merupakan contoh. Sesuaikan dengan nama berkas yang benar-benar diunggah ke repository.*
 
 ## Dokumentasi Sistem
 
