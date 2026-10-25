@@ -42,12 +42,11 @@ Sistem ini bertujuan mengatasi permasalahan pencarian barang yang masih dilakuka
 ```text
 Lost-and-Found-Kampus/
 ├── Diagram/
-│   ├── BPMN-As-Is.png
-│   ├── BPMN-To-Be.png
-│   ├── User-Persona.png
-│   ├── Use-Case-Diagram.png
-│   ├── Activity-Diagram.png
-│   └── Class-Diagram.png
+│   ├── BPMN As-is dan To-be.png
+│   ├── User Persona.png
+│   ├── Use Case.png
+│   ├── Activity.png
+│   └── Class Diagram.png
 ├── Dokumen/
 │   ├── SRS - LostFound Campus - Kelompok 6.pdf
 │   ├── Use Case Speficication - LostFound Campus - Kelompok 6.pdf
