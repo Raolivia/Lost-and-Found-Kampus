@@ -49,9 +49,9 @@ Lost-and-Found-Kampus/
 │   ├── Activity-Diagram.png
 │   └── Class-Diagram.png
 ├── Dokumen/
-│   ├── SRS.pdf
-│   ├── Use-Case-Specification.pdf
-│   └── RTM.pdf
+│   ├── SRS - LostFound Campus - Kelompok 6.pdf
+│   ├── Use Case Speficication - LostFound Campus - Kelompok 6.pdf
+│   └── RTM - LostFound Campus - Kelompok 6.pdf
 └── README.md
 ```
 
