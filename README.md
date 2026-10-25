@@ -59,7 +59,7 @@ Lost-and-Found-Kampus/
 
 *Catatan: Nama berkas pada struktur di atas merupakan contoh. Sesuaikan dengan nama berkas yang benar-benar diunggah ke repository.*
 
-## 📑 Dokumentasi Sistem
+## Dokumentasi Sistem
 
 Dokumentasi proyek disimpan pada folder berikut:
 
