@@ -1,7 +1,3 @@
-# Lost-and-Found-Kampus
-Sistem Informasi Lost and Found Kampus untuk pelaporan dan pengembalian barang hilang di lingkungan kampus.
-# Sistem Informasi Lost and Found Kampus
-
 ### Sistem Pencarian dan Pengembalian Barang Hilang di Lingkungan Kampus
 
 ## Deskripsi Proyek
