@@ -71,7 +71,7 @@ Dokumentasi tersebut digunakan sebagai acuan analisis dan perancangan Sistem Inf
 
 | No. | Nama Anggota | NIM |
 |---:|---|---|
-| 1 | Nama Tidak Dikenal | 24343125 |
+| 1 | Ranalda Olivia | 24343125 |
 | 2 | Bima Satria | 24343052 |
 | 3 | Aufa Ardi | 24343113 |
 | 4 | Yusuf Mushthafa | 24343108 |
