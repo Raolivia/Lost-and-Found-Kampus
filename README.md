@@ -96,8 +96,3 @@ Proyek ini merupakan bagian dari tugas Evaluasi Tengah Semester (UTS) mata kulia
 ---
 
 **Kelompok 6 — Universitas Negeri Padang, 2026**
-
-path = "README.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(content)
-print(path)
